@@ -1,4 +1,4 @@
-# 💫 <Hello World>:
+# 💫 <Hello World> :
 I am Biswa Bismay, a 3rd-year computer science UG student at KIIT DU BBSR.<br><br>✅ I'm open for internships or open source contributions <br>🔭 I’m currently working on an e-commerce platform that will ease the process of searching for favorable items<br>👯 I’m looking to collaborate on any open-source projects <br>🌱 I’m currently learning React JS and Node JS<br>👀Hope you like what you see<br><br><br>Feel free to contact me-<br>    <Gmail> biswabismay@gmail.com<br>    <LinkedIn> @biswabismay
 
 
